@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishalgurnule
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning cybersecurity,Artificialintelligence,machinelearning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 7620991651
 
